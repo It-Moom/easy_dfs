@@ -1,0 +1,12 @@
+# app配置
+app:
+  name: EasyDFS
+  env: local
+  debug: true
+  url: http://localhost:18088
+  port: 18088
+
+# 日志配置
+log:
+  type: daily
+  level: debug
